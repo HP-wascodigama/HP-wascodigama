@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HP-wascodigama
-- 👀 I’m interested in AI, ML, DL and Robotics
+- 👀 I’m interested in Data, AI, ML, DL and Robotics
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking for opportunity to work on Human Centered Robotics using AI 
 - 📫 How to reach me fork in github or write comments. 
