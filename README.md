@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HP-wascodigama
+- 👋 Hi, I’m @Himanshu
 - 👀 I’m interested in Data, AI, ML, DL and Robotics
 - 🌱 I’m currently learning Robotics and Advance Computing
 - 💞️ I’m looking for opportunity to work on Human Centered intellient Robotics using AI 
